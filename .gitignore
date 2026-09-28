@@ -1,0 +1,17 @@
+# Compiled class files & build directories
+target/
+bin/
+
+# Eclipse IDE settings
+.settings/
+.classpath
+.project
+.sts-workspace/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
